@@ -1,4 +1,12 @@
 #lang racket/gui
+
+
+
+
+
+
+
+
  (define myframe (new frame%
                      [label "My window"]
                      [width 500] [height 400]))
