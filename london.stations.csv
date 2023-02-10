@@ -1,0 +1,303 @@
+id,name,line id
+1,Acton Town,0
+2,Aldgate,0
+3,Aldgate East,0
+4,All Saints,0
+5,Alperton,0
+7,Angel,0
+8,Archway,0
+9,Arnos Grove,0
+10,Arsenal,0
+11,Baker Street,0
+12,Balham,0
+13,Bank,0
+14,Barbican,0
+15,Barking,0
+16,Barkingside,0
+17,Barons Court,0
+18,Bayswater,0
+19,Beckton,0
+20,Beckton Park,0
+21,Becontree,0
+22,Belsize Park,0
+24,Bethnal Green,0
+25,Blackfriars,0
+26,Blackhorse Road,0
+27,Blackwall,0
+28,Bond Street,0
+29,Borough,0
+30,Boston Manor,0
+31,Bounds Green,0
+32,Bow Church,0
+33,Bow Road,0
+34,Brent Cross,0
+36,Bromley-By-Bow,0
+38,Burnt Oak,0
+39,Caledonian Road,0
+40,Camden Town,0
+42,Canary Wharf,0
+44,Cannon Street,0
+45,Canons Park,0
+47,Chalk Farm,0
+48,Chancery Lane,0
+49,Charing Cross,0
+51,Chigwell,0
+52,Chiswick Park,0
+54,Clapham Common,0
+55,Clapham North,0
+56,Clapham South,0
+58,Colindale,0
+59,Colliers Wood,0
+60,Covent Garden,0
+61,Crossharbour & London Arena,0
+63,Custom House,0
+65,Cyprus,0
+66,Dagenham East,0
+67,Dagenham Heathway,0
+70,Devons Road,0
+71,Dollis Hill,0
+72,Ealing Broadway,0
+73,Ealing Common,0
+74,Earl's Court,0
+75,Eastcote,0
+76,East Acton,0
+77,East Finchley,0
+78,East Ham,0
+79,East India,0
+80,East Putney,0
+81,Edgware,0
+82,Edgware Road (B),0
+83,Edgware Road (C),0
+84,Elephant & Castle,0
+85,Elm Park,0
+87,Embankment,0
+89,Euston,0
+90,Euston Square,0
+91,Fairlop,0
+92,Farringdon,0
+93,Finchley Central,0
+94,Finchley Road,0
+95,Finsbury Park,0
+96,Fulham Broadway,0
+97,Gallions Reach,0
+98,Gants Hill,0
+99,Gloucester Road,0
+100,Golders Green,0
+101,Goldhawk Road,0
+102,Goodge Street,0
+103,Grange Hill,0
+104,Great Portland Street,0
+105,Greenford,0
+107,Green Park,0
+108,Gunnersbury,0
+109,Hainault,0
+110,Hammersmith,0
+111,Hampstead,0
+112,Hanger Lane,0
+113,Harlesden,0
+114,Harrow & Wealdston,0
+115,Harrow-on-the-Hill,0
+116,Hatton Cross,0
+117,"Heathrow Terminals 1, 2 & 3",0
+118,Heathrow Terminal 4,0
+119,Hendon Central,0
+120,Heron Quays,0
+122,High Street Kensington,0
+123,Highbury & Islington,0
+124,Highgate,0
+125,Hillingdon,0
+126,Holborn,0
+127,Holland Park,0
+128,Holloway Road,0
+129,Hornchurch,0
+130,Hounslow Central,0
+131,Hounslow East,0
+132,Hounslow West,0
+133,Hyde Park Corner,0
+134,Ickenham,0
+135,Island Gardens,0
+136,Kennington,0
+137,Kensal Green,0
+138,Kensington (Olympia),0
+139,Kentish Town,0
+140,Kenton,0
+141,Kew Gardens,0
+142,Kilburn,0
+143,Kilburn Park,0
+144,Kingsbury,0
+145,King's Cross St. Pancras,0
+146,Knightsbridge,0
+147,Ladbroke Grove,0
+148,Lambeth North,0
+149,Lancaster Gate,0
+150,Latimer Road,0
+151,Leicester Square,0
+153,Leyton,0
+154,Leytonstone,0
+155,Limehouse,0
+156,Liverpool Street,0
+157,London Bridge,0
+159,Maida Vale,0
+160,Manor House,0
+161,Mansion House,0
+162,Marble Arch,0
+163,Marylebone,0
+164,Mile End,0
+165,Mill Hill East,0
+166,Monument,0
+167,Moorgate,0
+168,Moor Park,0
+169,Morden,0
+170,Mornington Crescent,0
+171,Mudchute,0
+172,Neasden,0
+173,Newbury Park,0
+176,Northfields,0
+177,Northolt,0
+178,Northwick Park,0
+179,Northwood,0
+180,Northwood Hills,0
+181,North Acton,0
+182,North Ealing,0
+184,North Harrow,0
+185,North Wembley,0
+186,Notting Hill Gate,0
+188,Old Street,0
+190,Osterley,0
+191,Oval,0
+192,Oxford Circus,0
+193,Paddington,0
+194,Park Royal,0
+195,Parsons Green,0
+196,Perivale,0
+197,Picadilly Circus,0
+198,Pimlico,0
+199,Pinner,0
+200,Plaistow,0
+201,Poplar,0
+202,Preston Road,0
+203,Prince Regent,0
+205,Putney Bridge,0
+206,Queen's Park,0
+207,Queensbury,0
+208,Queensway,0
+209,Ravenscourt Park,0
+210,Rayners Lane,0
+211,Redbridge,0
+212,Regent's Park,0
+213,Richmond,0
+215,Roding Valley,0
+216,Rotherhithe,0
+217,Royal Albert,0
+218,Royal Oak,0
+219,Royal Victoria,0
+220,Ruislip,0
+222,Ruislip Manor,0
+223,Russell Square,0
+224,Seven Sisters,0
+225,Shadwell,0
+226,Shepherd's Bush (C),0
+227,Shepherd's Bush (H),0
+228,Shoreditch,0
+229,Sloane Square,0
+230,Snaresbrook,0
+231,Southfields,0
+234,South Ealing,0
+235,South Harrow,0
+236,South Kensington,0
+237,South Kenton,0
+238,South Quay,0
+239,South Ruislip,0
+240,South Wimbledon,0
+241,South Woodford,0
+242,Stamford Brook,0
+243,Stanmore,0
+244,Stepney Green,0
+245,Stockwell,0
+246,Stonebridge Park,0
+247,Stratford,0
+248,St. James's Park,0
+249,St. John's Wood,0
+250,St. Paul's,0
+251,Sudbury Hill,0
+252,Sudbury Town,0
+253,Surrey Quays,0
+254,Swiss Cottage,0
+255,Temple,0
+257,Tooting Bec,0
+258,Tooting Broadway,0
+259,Tottenham Court Road,0
+260,Tottenham Hale,0
+262,Tower Gateway,0
+263,Tower Hill,0
+264,Tufnell Park,0
+265,Turnham Green,0
+266,Turnpike Lane,0
+267,Upminster,0
+268,Upminster Bridge,0
+269,Upney,0
+270,Upton Park,0
+271,Uxbridge,0
+272,Vauxhall,0
+273,Victoria,0
+274,Walthamstow Central,0
+275,Wanstead,0
+276,Wapping,0
+277,Warren Street,0
+278,Warwick Avenue,0
+279,Waterloo,0
+281,Wembley Central,0
+282,Wembley Park,0
+283,Westbourne Park,0
+284,Westferry,0
+285,Westminster,0
+286,West Acton,0
+287,West Brompton,0
+288,West Finchley,0
+289,West Ham,0
+290,West Hampstead,0
+291,West Harrow,0
+292,West India Quay,0
+293,West Kensington,0
+294,West Ruislip,0
+295,Whitechapel,0
+296,White City,0
+297,Willesden Green,0
+298,Willesden Junction,0
+299,Wimbledon,0
+300,Wimbledon Park,0
+301,Woodford,0
+302,Woodside Park,0
+303,Wood Green,0
+35,Brixton,0
+6,Amersham,0
+23,Bermondsey,0
+50,Chesham,0
+46,Chalfont & Latimer,0
+53,Chorleywood,0
+214,Rickmansworth,0
+62,Croxley,0
+280,Watford,0
+221,Ruislip Gardens,0
+121,High Barnet,0
+261,Totteridge & Whetstone,0
+57,Cockfosters,0
+187,Oakwood,0
+232,Southgate,0
+88,Epping,0
+256,Theydon Bois,0
+68,Debden,0
+158,Loughton,0
+37,Buckhurst Hill,0
+204,Pudding Mill Lane,0
+233,Southwark,0
+41,Canada Water,0
+43,Canning Town,0
+183,North Greenwich,0
+64,Cutty Sark,0
+106,Greenwich,0
+69,Deptford Bridge,0
+86,Elverson Road,0
+152,Lewisham,0
+174,New Cross,0
+175,New Cross Gate,0
