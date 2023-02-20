@@ -4,6 +4,7 @@
 (require graph)
 (require csv-reading)
 
+(define connections (undirected-graph '() '()))
 (define filenameConnections "london.connections.csv")
 (define filenameStations "london.stations.csv")
 (define nameLookup (make-hash))
@@ -22,7 +23,7 @@
 (define nextRowConnections
     (mkCsvReader (open-input-file filenameConnections)))
 
-(define connections (undirected-graph '() '()))
+
 
 (define makeGraph
   (lambda ()
@@ -90,10 +91,11 @@
                       [parent myframe]
                       [callback (lambda (b e)
                         (send textFieldSelections set-value (string-append "Showing Route From:   " selection1 " -> " selection2))
-                        (send textFieldRoute set-value (let ((station-strings (map first (returnConnections (fewest-vertices-path connections (getKey selection1) (getKey selection2))))))
-                                                            (string-append
-                                                            (apply string-append (drop-right (map (lambda (x) (string-append x " -> ")) station-strings) 1))
-                                                            (last station-strings))
+                        (send textFieldRoute set-value (let 
+                          ((station-strings (map first (returnConnections (fewest-vertices-path connections (getKey selection1) (getKey selection2))))))
+                          (string-append
+                          (apply string-append (drop-right (map (lambda (x) (string-append x " -> ")) station-strings) 1))
+                          (last station-strings))
 )))]
                       ))
 
